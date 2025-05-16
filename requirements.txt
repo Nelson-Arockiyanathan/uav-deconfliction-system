@@ -1,0 +1,9 @@
+Flask
+numpy
+matplotlib
+scipy
+pandas
+pytest
+jsonschema
+requests
+huggingface_hub
